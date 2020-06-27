@@ -1,1 +1,1 @@
-# orbit-db-identity-provider-mem
+# orbit-db-identity-provider-d
